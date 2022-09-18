@@ -1,6 +1,6 @@
 ## 🎮💻 NLW eSports
 
-Esse projeto foi desenvolvido durante a Next Level Week eSports da Rocketseat. Foi uma semana de conteúdo prático desenvolvendo essa aplicação Full Stack.
+This project was developed during Rocketseat's Next Level Week eSports. It was a week of practical content developing this Full Stack application.
 
 ## 🖼 Imagens do Projeto (Web)
 <img src="https://user-images.githubusercontent.com/71772559/190813600-d22c07b2-1eee-48bb-92bb-f8b46e7dcaf4.png" align="center" />
