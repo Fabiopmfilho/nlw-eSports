@@ -27,3 +27,7 @@ createdAt
 - Criação de novo anuncio
 - Listagem de anuncios por games
 - Buscar discord pelo ID do anuncio
+
+### Melhorias
+
+- zod validation
